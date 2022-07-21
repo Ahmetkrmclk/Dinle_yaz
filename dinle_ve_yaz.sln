@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dinle_ve_yaz", "dinle_ve_yaz\dinle_ve_yaz.csproj", "{B563BF2A-5E51-4A54-884A-61EFF6491C73}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Dinleve_Yaz", "Dinleve_Yaz\Dinleve_Yaz.vdproj", "{DCC3342B-E665-4798-ABA2-88D7B220F1C0}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DY", "DY\DY.vdproj", "{409C1FE9-9CA3-4084-9DA8-5DDE8F9193E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B563BF2A-5E51-4A54-884A-61EFF6491C73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B563BF2A-5E51-4A54-884A-61EFF6491C73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B563BF2A-5E51-4A54-884A-61EFF6491C73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B563BF2A-5E51-4A54-884A-61EFF6491C73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCC3342B-E665-4798-ABA2-88D7B220F1C0}.Debug|Any CPU.ActiveCfg = Debug
+		{DCC3342B-E665-4798-ABA2-88D7B220F1C0}.Release|Any CPU.ActiveCfg = Release
+		{409C1FE9-9CA3-4084-9DA8-5DDE8F9193E6}.Debug|Any CPU.ActiveCfg = Debug
+		{409C1FE9-9CA3-4084-9DA8-5DDE8F9193E6}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF45150E-28EE-4936-B8EB-2CBA3B7C9B78}
+	EndGlobalSection
+EndGlobal
